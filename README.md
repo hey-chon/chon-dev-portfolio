@@ -35,6 +35,7 @@ The portfolio is designed to present my background as a Senior High School IT st
 - Antigravity
 - Replit
 - Gemini
+- SuperGrok
 
 ## Folder Structure
 ```text
