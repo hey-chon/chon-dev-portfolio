@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
 ```text
 Bash
 
-git clone [https://github.com/ilogjimson1215/chon-dev-portfolio.git](https://github.com/ilogjimson1215/chon-dev-portfolio.git)
+git clone [https://github.com/hey-chon/chon-dev-portfolio.git](https://github.com/hey-chon/chon-dev-portfolio.git)
 ```
 2. Navigate into the project directory:
 ```text
